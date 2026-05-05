@@ -15,7 +15,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
-<img src = https://drive.google.com/file/d/1I8UtQk0zdvhp2UaUDRAKFHy5V-hkhfFw/view?usp=drive_link>
+![Screenshot Aplikasi](https://lh3.googleusercontent.com/u/0/d/1I8UtQk0zdvhp2UaUDRAKFHy5V-hkhfFw)
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
