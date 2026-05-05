@@ -1,9 +1,9 @@
 # Welcome to your Expo app 👋
-
+![Screenshot Aplikasi]
 <img src="https://lh3.googleusercontent.com/u/0/d/1I8UtQk0zdvhp2UaUDRAKFHy5V-hkhfFw" width="200" alt="Screenshot Aplikasi">
 <img src="https://lh3.googleusercontent.com/u/0/d/1HwUQj6DY-I906U0Sn_HcNUalshMFrEDR" width="200" alt="Screenshot Aplikasi">
 <img src="https://lh3.googleusercontent.com/u/0/d/1DKJIJNjTi8wSmpAqzPELfvgMtgo89GNm" width="200" alt="Screenshot Aplikasi">
-![Screenshot Aplikasi]
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
