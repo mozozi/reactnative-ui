@@ -16,7 +16,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 ![Screenshot Aplikasi]()
-<img src="https://lh3.googleusercontent.com/u/0/d/1I8UtQk0zdvhp2UaUDRAKFHy5V-hkhfFw" width="300" alt="Screenshot Aplikasi">
+<img src="https://lh3.googleusercontent.com/u/0/d/1I8UtQk0zdvhp2UaUDRAKFHy5V-hkhfFw" width="200" alt="Screenshot Aplikasi">
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
